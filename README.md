@@ -1,5 +1,5 @@
-# FHDTM-P2DS-WS2324
-I9PB-43021 | Programmierkurs 2 Data Science (WS23/24)
+# FHDTM-P2DS-WS2425
+I9PB-43021 | Programmierkurs 2 Data Science (WS24/25)
 
 Alle Informationen zu dem Kurs unter: https://leotraeg.github.io/me/I9PB-43021.html
 
